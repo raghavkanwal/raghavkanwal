@@ -1,4 +1,4 @@
-Hi, I'm Raghav. I'm a frontend engineer based in **Delhi, India** currently with **Unicommerce** as a **Lead UI engineer**. 
+Hi, I'm Raghav. I'm a frontend engineer based in **Vancouver, Canada** currently with **Unicommerce** as a **Lead UI engineer**. 
 
 I specialise in building web experiences across a variety of technologies and requirements, ranging from maintaining decade-old legacy code bases to building and deploying new bleeding edge solutions. 
 
